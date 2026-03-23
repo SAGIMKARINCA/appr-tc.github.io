@@ -1,3 +1,9 @@
-👋 Hi, Welcome to AppRTC!
+# AppRTC
 
-📫 How to reach us? Send email to admin AT appr DOT tc
+Sağlık hizmetleri, dijital hekimlik ve klinik araştırma çözümleri.
+
+🔗 **[alpercihan.com](https://alpercihan.com)**
+
+## İletişim
+
+📫 [admin@appr.tc](mailto:admin@appr.tc)
